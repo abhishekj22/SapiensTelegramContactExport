@@ -4,9 +4,9 @@ from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
 import csv
 
-api_id = 1341306  #paste API ID here 
-api_hash = '666f775ed259e0ffe680a7994f25bca0'  #paste API HASH here in quotes
-phone = '+918828176706' #admin phone number (but as tested non admin number can also extract list)
+api_id = 12345678  #paste API ID here 
+api_hash = '66ert775ed5669jklofe680a79cgrkdybca0'  #paste API HASH here in quotes
+phone = '+918828111111' #admin phone number (but as tested non admin number can also extract list)
 
 ##channel_username = 'https://t.me/testchnl4'
 
